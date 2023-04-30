@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  title: "PLUMY: Protecting LQBTQ+ Underserved Miami-Dade Youth"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: About Us
+        href: about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
