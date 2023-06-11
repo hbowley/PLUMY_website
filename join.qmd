@@ -1,0 +1,44 @@
+---
+title: "Untitled"
+---
+```{r shiny-embed, echo=FALSE}
+library(shiny)
+
+# Define the UI
+ui <- fluidPage(
+  h1("Contact Form"),
+  br(),
+  textInput("name", "Name:"),
+  br(),
+  textInput("email", "Email:"),
+  br(),
+  textAreaInput("message", "Message:"),
+  br(),
+  actionButton("submit", "Submit"),
+  br(),
+  verbatimTextOutput("response")
+)
+
+# Define the server
+server <- function(input, output) {
+  observeEvent(input$submit, {
+    # Store the form data
+    name <- input$name
+    email <- input$email
+    message <- input$message
+    
+    # Perform any desired actions with the form data here
+    # For this example, we'll simply print the values
+    
+    cat("Name:", name, "\n")
+    cat("Email:", email, "\n")
+    cat("Message:", message, "\n")
+    
+    # Display a response message
+    output$response <- renderText("Form submitted successfully!")
+  })
+}
+
+# Run the application
+shinyApp(ui, server)
+```

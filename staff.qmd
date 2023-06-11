@@ -1,0 +1,68 @@
+---
+title: "Our Staff"
+sidebar: false
+css: styles.css
+     
+---
+
+
+
+```{=html}
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="picture.jpg" alt="Jane" style="width:100%">
+      <div class="container">
+        <h2>Hannah Bowley</h2>
+        <p class="title">Executive Director &amp; Founder</p>
+        <p>bio</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="anab1.jpg" alt="Mike" style="width:100%">
+      <div class="container">
+        <h2>Ana Bravo</h2>
+        <p class="title">Board of Directors</p>
+        <p>bio</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="mc.jpg" alt="John" style="width:100%">
+      <div class="container">
+        <h2>Maria Claudia Fontes</h2>
+        <p class="title">Board of Directors</p>
+        <p>bio.</p>
+        <p>email</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+  
+    <div class="column">
+    <div class="card">
+      <img src="david2.jpg" alt="David" style="width:100%">
+      <div class="container">
+        <h2>David Bowley</h2>
+        <p class="title">Board of Directors- Finance</p>
+        <p>bio</p>
+        <p>example@example.com</p>
+        <p><button class="button">Contact</button></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+```
+
