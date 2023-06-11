@@ -2,15 +2,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Us",
+    "title": "About us",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "PLUMY is dedicated to protecting and empowering LGBTQ+ underserved youths in Miami Dade. Our mission is to create a safe and inclusive community where LGBTQ+ youths can thrive, express themselves creatively, and connect with their peers. We aim to provide professional development opportunities, mental health resources, and other supportive services to help LGBTQ+ youths overcome the challenges they face. Through our work, we strive to promote equality, respect, and understanding for all members of the LGBTQ+ community."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Empowering LGBTQ youth to thrive",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "## Our Mission:\n##### PLUMY is dedicated to protecting and empowering LGBTQ+ underserved youths in Miami Dade. Our mission is to create a safe and inclusive community where LGBTQ+ youths can thrive, express themselves creatively, and connect with their peers. We aim to provide professional development opportunities, mental health resources, and other supportive services to help LGBTQ+ youths overcome the challenges they face. Through our work, we strive to promote equality, respect, and understanding for all members of the LGBTQ+ community.\n## Our vision:\n##### PLUMY envisions a future where all LGBTQ+ youth in Miami Dade feel empowered, valued, and celebrated for their unique identities. We strive for a community where each of these youth has access to essential resources and opportunities that promote mental health, personal and professional growth, creativity, and academic success.”"
+  },
+  {
+    "objectID": "index.html#our-vision",
+    "href": "index.html#our-vision",
+    "title": "Empowering LGBTQ youth to thrive",
+    "section": "Our vision",
+    "text": "Our vision\n\nPLUMY envisions a future where all LGBTQ+ youth in Miami Dade feel empowered, valued, and celebrated for their unique identities. We strive for a community where each of these youth has access to essential resources and opportunities that promote mental health, personal and professional growth, creativity, and academic success.”"
+  },
+  {
+    "objectID": "index.html#our-work",
+    "href": "index.html#our-work",
+    "title": "Empowering LGBTQ youth to thrive",
+    "section": "Our Work",
+    "text": "Our Work"
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Our Staff",
+    "section": "",
+    "text": "Hannah Bowley\n        Executive Director & Founder\n        bio\n        example@example.com\n        Contact\n      \n    \n  \n\n  \n    \n      \n      \n        Ana Bravo\n        Board of Directors\n        bio\n        example@example.com\n        Contact\n      \n    \n  \n\n\n\n  \n    \n      \n      \n        Maria Claudia Fontes\n        Board of Directors\n        bio.\n        email\n        Contact\n      \n    \n  \n  \n    \n    \n      \n      \n        David Bowley\n        Board of Directors- Finance\n        bio\n        example@example.com\n        Contact"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About us",
+    "section": "",
+    "text": "PLUMY is dedicated to protecting and empowering LGBTQ+ underserved youths in Miami Dade. Our mission is to create a safe and inclusive community where LGBTQ+ youths can thrive, express themselves creatively, and connect with their peers. We aim to provide professional development opportunities, mental health resources, and other supportive services to help LGBTQ+ youths overcome the challenges they face. Through our work, we strive to promote equality, respect, and understanding for all members of the LGBTQ+ community."
+  },
+  {
+    "objectID": "about.html#our-vision",
+    "href": "about.html#our-vision",
+    "title": "About us",
+    "section": "Our vision",
+    "text": "Our vision\nPLUMY envisions a future where all LGBTQ+ youth in Miami Dade feel empowered, valued, and celebrated for their unique identities. We strive for a community where each of these youth has access to essential resources and opportunities that promote mental health, personal and professional growth, creativity, and academic success."
+  },
+  {
+    "objectID": "about.html#organizational-values",
+    "href": "about.html#organizational-values",
+    "title": "About us",
+    "section": "Organizational Values",
+    "text": "Organizational Values\nInclusivity: We are committed to creating an environment that is welcoming, safe, and inclusive for all members of the LGBTQ+ community, regardless of their background or identity.\nEmpowerment: We believe that every LGBTQ+ youth has the potential to achieve greatness and we are dedicated to empowering them with the tools, resources, and support they need to succeed, including those who have been historically marginalized or underrepresented.\nRespect: We treat everyone with respect, dignity, and kindness, and strive to create a culture of mutual understanding and appreciation that embraces diversity and celebrates differences.\nAdvocacy: We are passionate about advocating for the rights of LGBTQ+ youth and promoting social justice and equality for all members of our community, recognizing the intersecting identities and unique experiences that shape individuals.\nProfessionalism: We are committed to maintaining the highest standards of professionalism, transparency, and accountability in all our activities and interactions, and we recognize the importance of being culturally responsive and attuned to the needs of diverse communities.\nResearch-Focused and Data-Driven: We are committed to using research and data to inform our decisions and practices, to continuously improve our programs and services. We believe that a rigorous, evidence-based approach is essential for achieving our goals, while still being empathetic and attuned to the needs of the individuals we serve.\nCollaboration: We recognize the value of collaboration and partnership in achieving our goals and we actively seek out opportunities to work with other organizations, businesses, and individuals who share our vision for a more inclusive and equitable world."
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "Shiny applications not supported in static R Markdown documents"
   }
 ]

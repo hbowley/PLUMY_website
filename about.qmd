@@ -1,9 +1,28 @@
 ---
-title: "About Us"
+title: "About us"
+sidebar: false
 ---
 
-About this site
+## Our Mission
 
-```{r}
-1 + 1
-```
+PLUMY is dedicated to protecting and empowering LGBTQ+ underserved youths in Miami Dade. Our mission is to create a safe and inclusive community where LGBTQ+ youths can thrive, express themselves creatively, and connect with their peers. We aim to provide professional development opportunities, mental health resources, and other supportive services to help LGBTQ+ youths overcome the challenges they face. Through our work, we strive to promote equality, respect, and understanding for all members of the LGBTQ+ community.
+
+## Our vision
+
+PLUMY envisions a future where all LGBTQ+ youth in Miami Dade feel empowered, valued, and celebrated for their unique identities. We strive for a community where each of these youth has access to essential resources and opportunities that promote mental health, personal and professional growth, creativity, and academic success.
+
+## Organizational Values
+
+Inclusivity: We are committed to creating an environment that is welcoming, safe, and inclusive for all members of the LGBTQ+ community, regardless of their background or identity.
+
+Empowerment: We believe that every LGBTQ+ youth has the potential to achieve greatness and we are dedicated to empowering them with the tools, resources, and support they need to succeed, including those who have been historically marginalized or underrepresented.
+
+Respect: We treat everyone with respect, dignity, and kindness, and strive to create a culture of mutual understanding and appreciation that embraces diversity and celebrates differences.
+
+Advocacy: We are passionate about advocating for the rights of LGBTQ+ youth and promoting social justice and equality for all members of our community, recognizing the intersecting identities and unique experiences that shape individuals.
+
+Professionalism: We are committed to maintaining the highest standards of professionalism, transparency, and accountability in all our activities and interactions, and we recognize the importance of being culturally responsive and attuned to the needs of diverse communities.
+
+Research-Focused and Data-Driven: We are committed to using research and data to inform our decisions and practices, to continuously improve our programs and services. We believe that a rigorous, evidence-based approach is essential for achieving our goals, while still being empathetic and attuned to the needs of the individuals we serve.
+
+Collaboration: We recognize the value of collaboration and partnership in achieving our goals and we actively seek out opportunities to work with other organizations, businesses, and individuals who share our vision for a more inclusive and equitable world.

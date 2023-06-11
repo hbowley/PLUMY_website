@@ -3,19 +3,37 @@ project:
   output-dir: docs
 
 website:
-  title: "PLUMY: Protecting LQBTQ+ Underserved Miami-Dade Youth"
+  title: "PLUMY- Protecting LQBTQ+ Underserved Miami-Dade Youth"
+  page-navigation: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - text: About Us
-        href: about.qmd
+      - sidebar:aboutus
+      
+  sidebar:   
+    - id: aboutus
+      title: "About"
+      href: about.qmd
+      style: "docked"
+      collapse-level: 2
+      contents: 
+        - title: "Our Mission"
+        - href: about.qmd
+        - title: "Our Staff"
+        - href: staff.qmd
+        
+      
+  
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: journal
+      dark: cyborg
     css: styles.css
     toc: true
 
 editor: visual
+
 
