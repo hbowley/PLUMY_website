@@ -2,4 +2,3 @@
 title: "Empowering LGBTQ youth to thrive"
 sidebar: false
 ---
-

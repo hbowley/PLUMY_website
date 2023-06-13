@@ -10,6 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - sidebar:aboutus
+      - href: "https://docs.google.com/forms/d/e/1FAIpQLSeJkbSPI3s2-otQp89Hxh5x9EbbRV2aM5ER2xRChpcwprVFQQ/viewform?usp=sf_link"
+        text: Join
+      
       
   sidebar:   
     - id: aboutus
@@ -23,8 +26,6 @@ website:
         - title: "Our Staff"
         - href: staff.qmd
         
-      
-  
 
 format:
   html:
