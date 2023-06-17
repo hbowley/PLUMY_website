@@ -1,68 +1,114 @@
 ---
 title: "Our Staff"
 sidebar: false
-css: styles.css
+css: teams.css
      
 ---
 
+``` {=html}
 
-
-```{=html}
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="picture.jpg" alt="Jane" style="width:100%">
-      <div class="container">
-        <h2>Hannah Bowley</h2>
-        <p class="title">Executive Director &amp; Founder</p>
-        <p>bio</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+<div class="responsive-container-block container">
+  <p class="text-blk team-head-text">
+    Our Team
+  </p>
+  <div class="responsive-container-block">
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src="picture.jpg">
+        </div>
+        <p class="text-blk name">
+          Hannah Bowley
+        </p>
+        <p class="text-blk position">
+          Executive Director & Founder
+        </p>
+        <p class="text-blk feature-text">
+          She/her/ella
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
+          </a>
+          <a href="https://www.facebook.com" target="_blank">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="anab1.jpg" alt="Mike" style="width:100%">
-      <div class="container">
-        <h2>Ana Bravo</h2>
-        <p class="title">Board of Directors</p>
-        <p>bio</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src="anab1.jpg">
+        </div>
+        <p class="text-blk name">
+          Ana Bravo
+        </p>
+        <p class="text-blk position">
+          Board of Directors
+        </p>
+        <p class="text-blk feature-text">
+          She/her/ella
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
+          </a>
+          <a href="https://www.facebook.com" target="_blank">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
+          </a>
+        </div>
       </div>
     </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img src="mc.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>Maria Claudia Fontes</h2>
-        <p class="title">Board of Directors</p>
-        <p>bio.</p>
-        <p>email</p>
-        <p><button class="button">Contact</button></p>
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src="mc3.JPG">
+        </div>
+        <p class="text-blk name-mc">
+          Maria Claudia Schubert Fontes
+        </p>
+        <p class="text-blk position">
+          Board of Directors
+        </p>
+        <p class="text-blk feature-text">
+          She/her/ella
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
+          </a>
+          <a href="https://www.facebook.com" target="_blank">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
+          </a>
+        </div>
       </div>
     </div>
-  </div>
+    <div class="responsive-cell-block wk-desk-3 wk-ipadp-3 wk-tab-6 wk-mobile-12 card-container">
+      <div class="card">
+        <div class="team-image-wrapper">
+          <img class="team-member-image" src="david2.jpg">
+        </div>
+        <p class="text-blk name">
+          David Bowley
+        </p>
+        <p class="text-blk position">
+          Board of Directors
+        </p>
+        <p class="text-blk feature-text">
+          He/him/el
+        </p>
+        <div class="social-icons">
+          <a href="https://www.twitter.com" target="_blank">
+            <img class="twitter-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon.svg">
+          </a>
+          <a href="https://www.facebook.com" target="_blank">
+            <img class="facebook-icon" src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/Icon-1.svg">
+          </a>
+        </div>
+      </div>
+    </div>
   
-    <div class="column">
-    <div class="card">
-      <img src="david2.jpg" alt="David" style="width:100%">
-      <div class="container">
-        <h2>David Bowley</h2>
-        <p class="title">Board of Directors- Finance</p>
-        <p>bio</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div>
-  </div>
-</div>
 
 ```
 

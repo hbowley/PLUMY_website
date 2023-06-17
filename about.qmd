@@ -1,6 +1,7 @@
 ---
 title: "About us"
 sidebar: false
+title-block-banner: false
 ---
 
 ## Our Mission

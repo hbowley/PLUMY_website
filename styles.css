@@ -1,7 +1,7 @@
 /* Three columns side by side */
 .column {
   float: left;
-  width: 50%;
+  width: 2%;
   margin-bottom: 16px;
   padding: 0 8px;
 }
@@ -56,4 +56,11 @@
   padding: 2px 16px;
   background-color: #5cb85c;
   color: white;
+}
+
+#bannerimage {
+  width: 100%;
+  height: 405px;
+  background-color: purple;
+  background-position: left;
 }
